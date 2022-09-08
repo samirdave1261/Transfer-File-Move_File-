@@ -1,0 +1,7 @@
+C:\Users\dev22\source\repos\File_Move\File_Move\bin\Debug\File_Move.exe.config
+C:\Users\dev22\source\repos\File_Move\File_Move\bin\Debug\File_Move.exe
+C:\Users\dev22\source\repos\File_Move\File_Move\bin\Debug\File_Move.pdb
+C:\Users\dev22\source\repos\File_Move\File_Move\obj\Debug\File_Move.csproj.AssemblyReference.cache
+C:\Users\dev22\source\repos\File_Move\File_Move\obj\Debug\File_Move.csproj.CoreCompileInputs.cache
+C:\Users\dev22\source\repos\File_Move\File_Move\obj\Debug\File_Move.exe
+C:\Users\dev22\source\repos\File_Move\File_Move\obj\Debug\File_Move.pdb
